@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-036",
+  "repository_name": "edu-smart-timetable-planner",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-smart-timetable-planner-v1.0.0.zip",
+  "sha256": "BC63C53BCBA2E3F172CE40D770A73C21C15E0019B443BA23F2EA16EC03D7C940",
+  "bytes": 4830,
+  "entries": [
+    "edu-smart-timetable-planner/SKILL.md",
+    "edu-smart-timetable-planner/references/DOMAIN_GUIDE.md",
+    "edu-smart-timetable-planner/references/EXAMPLES.md",
+    "edu-smart-timetable-planner/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:19:11.8992826+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

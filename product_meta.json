@@ -1,0 +1,24 @@
+{
+  "number": 46,
+  "product_id": "JLZ-EDU-SK-036",
+  "chinese_name": "智能排课",
+  "english_name": "Smart Timetable Planner",
+  "repository_name": "edu-smart-timetable-planner",
+  "product_type": "Skill",
+  "category": "04 教务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-smart-timetable-planner-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "班级、教师、教室、时间约束、课程时长、学生冲突、教师可用性和硬性规则",
+  "main_output": "排课草案、约束清单、冲突表、替代方案和人工确认项",
+  "package_entries": [
+    "edu-smart-timetable-planner/SKILL.md",
+    "edu-smart-timetable-planner/references/DOMAIN_GUIDE.md",
+    "edu-smart-timetable-planner/references/EXAMPLES.md",
+    "edu-smart-timetable-planner/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
