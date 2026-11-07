@@ -6,19 +6,37 @@
   "repository_name": "edu-smart-timetable-planner",
   "product_type": "Skill",
   "category": "04 教务运营中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-smart-timetable-planner-v1.0.0.zip",
+  "baseline_commit": "9b41f9a948d66daf6173912c1c69410554cf797e",
+  "package_path": "dist/edu-smart-timetable-planner-v1.0.1.zip",
+  "previous_package_path": "dist/edu-smart-timetable-planner-v1.0.0.zip",
+  "previous_package_sha256": "BC63C53BCBA2E3F172CE40D770A73C21C15E0019B443BA23F2EA16EC03D7C940",
   "calculator": false,
   "core_input": "班级、教师、教室、时间约束、课程时长、学生冲突、教师可用性和硬性规则",
   "main_output": "排课草案、约束清单、冲突表、替代方案和人工确认项",
+  "main_output_fields": [
+    "排课草案",
+    "约束清单",
+    "冲突表",
+    "替代方案和人工确认项"
+  ],
   "package_entries": [
     "edu-smart-timetable-planner/SKILL.md",
     "edu-smart-timetable-planner/references/DOMAIN_GUIDE.md",
     "edu-smart-timetable-planner/references/EXAMPLES.md",
-    "edu-smart-timetable-planner/templates/OUTPUT_TEMPLATE.md"
+    "edu-smart-timetable-planner/templates/OUTPUT_TEMPLATE.md",
+    "edu-smart-timetable-planner/README.md",
+    "edu-smart-timetable-planner/USAGE.md",
+    "edu-smart-timetable-planner/LICENSE",
+    "edu-smart-timetable-planner/THIRD_PARTY_NOTICES.md",
+    "edu-smart-timetable-planner/scripts/validate_input.js"
   ]
 }
