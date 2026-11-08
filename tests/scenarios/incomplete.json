@@ -1,0 +1,11 @@
+{
+  "scenario_name": "incomplete",
+  "business_context": "用户在智能排课任务开始阶段只提供了少量资料。",
+  "inputs": {
+    "班级": "标准合成场景｜8个班、4名教师、3间教室；周一至周五16:00-20:00（合成约束）",
+    "教师": "标准合成场景｜已确认岗位与职责；具体人员使用角色编号T01、C01（合成编号）"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}
